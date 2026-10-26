@@ -36,7 +36,7 @@ O projeto contempla análises exploratórias como:
 - Evolução das vendas dos jogos por ano de lançamento.
 - Comparação do desempenho dos gêneros em vendas e avaliações.
 - Comparação entre as notas da crítica e do público em categorias específicas de jogos.
-- Contagem de jogos lançados em períodos específicos.
+- Contagem de jogos lançados por ano.
 
 ## Dashboard 📈 
 
