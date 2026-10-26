@@ -79,7 +79,10 @@ Metacritic
 ## Informações do Aluno 🎓
 
 **Disciplina:** Tópicos de Big Data em Python
+
 **Tema:** Análise do desempenho histórico dos jogos da Nintendo.
-**Autor:** [Guilherme Pupo NUnes]
+
+**Autor:** Guilherme Pupo Nunes
+
 **Curso:** Análise e Desenvolvimento de Sistemas
 
