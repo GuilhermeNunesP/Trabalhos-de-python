@@ -82,7 +82,7 @@ Metacritic
 
 **Tema:** Análise do desempenho histórico dos jogos da Nintendo.
 
-**Autor:** Guilherme Pupo Nunes
+**Aluno:** Guilherme Pupo Nunes
 
 **Curso:** Análise e Desenvolvimento de Sistemas
 
