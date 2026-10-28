@@ -42,11 +42,12 @@ O projeto contempla análises exploratórias como:
 
 O dashboard reúne gráficos e indicadores para facilitar a interpretação dos dados, incluindo:
 
+- Quantidade de jogos na base.
 - Vendas acumuladas dos jogos registrados na base.
 - Franquias com maiores vendas.
 - Desempenho dos consoles.
 - Evolução das vendas por ano.
-- Comparação entre gêneros.
+- Comparação de quantidade de jogos por ano
 - Médias das avaliações da crítica e do público.
 
 Os resultados são calculados a partir dos dados disponíveis na planilha e podem ser atualizados quando a base é modificada.
