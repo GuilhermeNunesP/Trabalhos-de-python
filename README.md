@@ -23,6 +23,7 @@ O projeto utiliza Python para importar, organizar, tratar e explorar os dados, b
 - **Pandas** — importação, organização, limpeza e análise dos dados.
 - **NumPy** — operações numéricas e manipulação de dados.
 - **Matplotlib** — criação de gráficos.
+- **Plotly** - criação de gráficos interativos.
 - **Google Colab** — ambiente utilizado para executar o código e desenvolver as análises.
 - **Excel** — armazenamento e organização da base de dados.
 
