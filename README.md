@@ -57,8 +57,6 @@ Os resultados são calculados a partir dos dados disponíveis na planilha e pode
 
 Os dados utilizados neste projeto foram obtidos a partir de fontes especializadas em videogames e de informações oficiais disponibilizadas pela Nintendo. O Metacritic foi utilizado como referência para as avaliações da crítica especializada e do público, enquanto o VGChartz foi consultado como fonte complementar de informações históricas de vendas, considerando as limitações metodológicas das estimativas publicadas.
 
-Para complementar informações sobre gêneros, plataformas, datas de lançamento e desenvolvedoras, podem ser utilizadas bases de dados especializadas e APIs, como RAWG.
-
 Após a coleta, os dados são tratados com Python e Pandas, com conversão de tipos, identificação de valores ausentes, verificação de inconsistências e padronização das categorias. As análises e visualizações são produzidas com bibliotecas como NumPy, Matplotlib e Plotly.
 
 As fontes, os critérios de seleção e as limitações dos dados são documentados para favorecer a transparência e a reprodução das análises.
@@ -74,9 +72,6 @@ VGchartz
 
 Metacritic
 [https://www.metacritic.com/browse/game/?platform=3ds&platform=game-boy-advance&platform=gamecube&platform=mobile&platform=nintendo-64&platform=nintendo-ds&platform=nintendo-switch&platform=nintendo-switch-2&platform=wii&platform=wii-u].
-
-RAWG
-[https://rawg.io/publishers/nintendo]
 
 ## Limitações ⚠️
 
